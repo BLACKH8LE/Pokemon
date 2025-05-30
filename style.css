@@ -1,0 +1,16 @@
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+background: #f0f8ff;
+}
+
+#pokemon-info, #favorites {
+margin-top: 20px;
+}
+
+.pokemon-card {
+border: 1px solid #ccc;
+padding: 10px;
+margin: 10px 0;
+background: #fff;
+}
